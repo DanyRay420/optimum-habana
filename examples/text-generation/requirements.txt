@@ -1,2 +1,4 @@
 datasets
 peft
+aiohttp>=3.9.4 # not directly required, pinned by Snyk to avoid a vulnerability
+torch>=2.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
