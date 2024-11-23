@@ -5,3 +5,4 @@ protobuf
 evaluate
 scikit-learn
 peft @ git+https://github.com/huggingface/peft@ba0477f2985b1ba311b83459d29895c809404e99
+aiohttp>=3.10.11 # not directly required, pinned by Snyk to avoid a vulnerability
