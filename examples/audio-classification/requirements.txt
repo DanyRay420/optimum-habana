@@ -1,3 +1,4 @@
 datasets>=1.14.0
 evaluate
 librosa
+aiohttp>=3.10.11 # not directly required, pinned by Snyk to avoid a vulnerability
