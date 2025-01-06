@@ -1,3 +1,4 @@
 datasets>=1.14.0
 evaluate
 librosa
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
