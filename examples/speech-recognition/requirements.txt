@@ -2,3 +2,4 @@ datasets >= 1.18.0
 librosa
 jiwer
 evaluate
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
